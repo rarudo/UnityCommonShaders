@@ -1,6 +1,6 @@
 ﻿// Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld'
 
-Shader "Custom/Shrink" {
+Shader "Custom/CommonShaders/Shrink" {
     Properties {
         _ShrinkPosition("Shrink Position", Vector) = (0, 0, 0, 0)
         _Color ("Text Color", Color) = (1,1,1,1)

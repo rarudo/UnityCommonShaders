@@ -1,7 +1,7 @@
 // Unity built-in shader source. Copyright (c) 2016 Unity Technologies. MIT license (see license.txt)
 // 横方向にゆらゆら揺らすShader
 
-Shader "Custom/GUI/WaveHolizontal" {
+Shader "Custom/CommonShaders/GUI/WaveHolizontal" {
     Properties {
         _MainTex ("Font Texture", 2D) = "white" {}
         _Color ("Text Color", Color) = (1,1,1,1)
