@@ -1,4 +1,7 @@
-﻿Shader "Custom/CommonShaders/Mountain" {
+﻿// 頂点を膨らませるShader
+
+//頂点を膨らませるShader
+Shader "Custom/CommonShaders/Mountain" {
 	Properties {
 		_Color ("Color", Color) = (1,1,1,1)
 		_MainTex ("Albedo (RGB)", 2D) = "white" {}
